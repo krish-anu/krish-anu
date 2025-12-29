@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Anusan
 
-<!--
-**krish-anu/krish-anu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🎓 Student / Developer
+- 💻 Interested in software development
+- 🌱 Currently learning new technologies
+- 🤝 Open to collaboration on projects
+- 🎯 Goal: Improve skills and build real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- C
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Linux
+- MySQL
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish-anu&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish-anu&layout=compact)
+
+---
+
+## 🚀 Projects
+- 🔹 Project 1 – Short description
+- 🔹 Project 2 – Short description
+- 🔹 Project 3 – Short description
+
+---
+
+## 📫 Contact Me
+- 📧 Email: krishnaanu200302@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/anusan-krishnathas-413732288/
+- 🌐 Portfolio: https://yourwebsite.com
+
+---
+
+⭐️ From [krish-anu](https://github.com/krish-anu)
