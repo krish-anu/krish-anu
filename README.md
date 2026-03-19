@@ -9,6 +9,7 @@ Building scalable web applications and turning data into meaningful insights.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusan-krishnathas-413732288/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krish-anu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnaanu200302@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anusan.dev)
 
 </div>
 
@@ -17,11 +18,12 @@ Building scalable web applications and turning data into meaningful insights.
 ## 👨‍💻 About Me
 
 - 🎓 **B.Sc. Engineering (Honours)** at **University of Moratuwa** — Data Science Engineering Stream
-- 📊 **CGPA:** 3.53 / 4.0 · **Dean's List** Honoree (1st Semester)
-- 🏆 **G.C.E. A/L:** 3As — District Rank **12** · Island Rank **349** · Z-Score 2.385
-- 🌐 Webmaster @ IEEE ComSoc Student Branch (UoM) · Web Dev Team @ IEEE CIS Sri Lanka Section (National Level)
-- 💡 Passionate about **Data Science**, **EDA**, and **Machine Learning**
-- 🤝 Open to collaborations on full-stack & data-driven projects
+- 📊 **CGPA:** 3.53 / 4.0 · **Dean's List** Honoree (Semester 1)
+- 🏆 **G.C.E. A/L:** 3As — District Rank **12** · Island Rank **349**
+- 🌐 **Co-Lead — Public Relations** @ IEEE Computational Intelligence Society Student Chapter, University of Moratuwa
+- 💻 **Webmaster** @ IEEE ComSoc Student Branch (UoM) · **Web Development Team Member** @ IEEE CIS Sri Lanka Section
+- 💡 Passionate about **Full-Stack Development**, **Data Science**, **EDA**, and **Machine Learning**
+- 🤝 Open to collaborations on full-stack, AI-powered, and data-driven projects
 
 ---
 
@@ -36,6 +38,7 @@ Building scalable web applications and turning data into meaningful insights.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-6A1B9A?style=flat-square)
 
 #### Frameworks & Libraries
 
@@ -44,8 +47,10 @@ Building scalable web applications and turning data into meaningful insights.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00BFA6?style=flat-square)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square)
 
 #### Databases & Cloud
 
@@ -54,6 +59,7 @@ Building scalable web applications and turning data into meaningful insights.
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 #### DevOps & Tools
 
@@ -61,46 +67,55 @@ Building scalable web applications and turning data into meaningful insights.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Asgardeo](https://img.shields.io/badge/Asgardeo-FF6B00?style=flat-square)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                                                                        | Description                                                                                                    | Tech Stack                                      |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [**Library Management Ecosystem**](https://github.com/krish-anu/LibraryApp) 🟢 | Dual-platform system with Flutter mobile app & Next.js web dashboard. Asgardeo CIAM for secure authentication. | Flutter, Next.js, FastAPI, Supabase, PostgreSQL |
-| [**BrightBuy**](https://github.com/krish-anu/BrightBuy)                        | Full-stack retail platform with Stripe payments, complex MySQL architecture, Docker + CI/CD to AWS.            | React, Node.js, MySQL, Docker, AWS, Stripe      |
-| [**Mora Exams**](https://github.com/moraexams/website)                         | A/L examination platform with Finance Dashboard. High-performance Go backend for secure student results.       | Astro, React, Go, MySQL, shadcn/ui              |
-| [**Todo Application**](https://github.com/krish-anu/ToDoApp)                   | High-performance RESTful API with Go Fiber & MongoDB. Async patterns for concurrent requests.                  | React, Go (Fiber), MongoDB, Tailwind CSS        |
-| [**4-bit Nanoprocessor**](https://github.com/krish-anu/Nano-Processor-Project) | RTL-designed processor with custom ISA (MOV, ADD, NEG, JZR), Program Counter, Register File & ALU.             | VHDL, Vivado, ModelSim                          |
+| Project | Description | Tech Stack |
+| --- | --- | --- |
+| [**Trash2Treasure**](https://github.com/krish-anu/Devthon) 🏆 | Dev{thon} 3.0 winning AI-powered waste management platform connecting users with verified recyclers. Includes multilingual chatbot, AI image verification, secure auth, role-based workflows, maps, notifications, and cloud deployment. | React, Node.js, PostgreSQL, Prisma ORM, Supabase, Docker, AWS EC2, Nginx, GitHub Actions, Google Gemini |
+| [**Library Management Ecosystem**](https://github.com/krish-anu/LibraryApp) 🟢 | Dual-platform system with Flutter mobile app and Next.js admin dashboard. Integrated Asgardeo CIAM, FastAPI backend, and PostgreSQL/Supabase for real-time library operations. | Flutter, Next.js, FastAPI, PostgreSQL, Supabase, Asgardeo |
+| [**BrightBuy**](https://github.com/krish-anu/BrightBuy) | Full-stack retail platform with Stripe payments, advanced MySQL logic, Dockerized deployment, and CI/CD to AWS. | React, Node.js, MySQL, Docker, AWS, Stripe, GitHub Actions |
+| [**Mora Exams**](https://github.com/moraexams/website) | A/L examination platform with finance dashboard, responsive admin interfaces, and a high-performance Go backend for secure result processing. | Astro, React, Go, MySQL, Tailwind CSS, shadcn/ui |
+| [**Todo Application**](https://github.com/krish-anu/ToDoApp) | RESTful task management app with Go Fiber backend and MongoDB for scalable document storage. | React, Go (Fiber), MongoDB |
+| [**4-bit Nanoprocessor**](https://github.com/krish-anu/Nano-Processor-Project) | RTL-designed processor with custom ISA including MOV, ADD, NEG, and JZR, with ALU, register file, and program counter. | VHDL, Vivado, ModelSim |
 
 ---
 
 ## 💼 Experience
 
-- **Web Dev Team Member** — IEEE Computational Intelligence Society, Sri Lanka Section _(Jan 2026 – Present)_
-- **Web Dev Team Member** — IESL RoboGames Competition _(Jan 2026 – Present)_
+- **Co-Lead — Public Relations** — IEEE Computational Intelligence Society Student Chapter, University of Moratuwa _(Mar 2026 – Present)_
+- **Web Development Team Member** — IEEE Computational Intelligence Society, Sri Lanka Section _(Jan 2026 – Present)_
+- **Web Development Team Member** — IESL RoboGames Competition _(Dec 2025 – Jan 2026)_
 - **Webmaster** — IEEE ComSoc Student Branch, UoM _(Oct 2025 – Present)_
-- **Web Dev Team Member** — Mora Exams _(Nov 2023 – Feb 2024 & Apr 2025 – Dec 2025)_
+- **Web Development Team Member** — Mora Exams _(Nov 2023 – Feb 2024 & Apr 2025 – Dec 2025)_
 
 ---
 
 ## 🏅 Achievements & Certifications
 
-|                                                              |                                                            |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| 🏆 Coderally Hackathon — **Finalist**                        | 📜 Fundamentals of Accelerated Data Science — **NVIDIA**   |
-| 🏆 UOJ Coders — **Finalist**                                 | 📜 The Complete 2025 Fullstack Web Development — **Udemy** |
-| 🥉 Math Olympiad (2017) — Provincial Level **2nd Runner-up** | 🎓 Dean's List — **University of Moratuwa**                |
+| Achievements | Certifications |
+| --- | --- |
+| 🏆 **Dev{thon} 3.0** — Champion | 📜 Supervised Machine Learning: Regression and Classification — **DeepLearning.AI & Stanford University** |
+| 🏆 **Coderally Hackathon** — Finalist | 📜 AWS Academy Graduate — **Microservices and CI/CD Pipeline Builder** |
+| 🏆 **UOJ Coders** — Finalist | 📜 AWS Academy Graduate — **Cloud Foundations** |
+| 🥉 **Math Olympiad (2017)** — Provincial 3rd Place | 📜 Fundamentals of Accelerated Data Science — **NVIDIA** |
+| 🎓 **Dean's List** — University of Moratuwa | 📜 The Complete 2025 Fullstack Web Development — **Udemy** |
 
 ---
 
 ## 🤝 Volunteering
 
-- **IR Coordinator (iGV)** — AIESEC: International IR calls to pitch projects to foreign entities
-- **Webmaster** — IEEE ComSoc Student Chapter: Website maintenance & technical operations
-- **Web Dev Team** — IESL RoboGames & Mora Exams platforms
-- **Volunteer Math Tutor** — Soysoru Sathkara: Taught mathematics to O/L students
+- **IR Coordinator (iGV)** — AIESEC: Managed global partnerships and conducted international IR calls
+- **Webmaster** — IEEE ComSoc Student Chapter: Website maintenance and technical operations
+- **Web Development Team** — IESL RoboGames Competition
+- **Web Development Team** — Mora Exams
+- **Volunteer Mathematics Tutor** — Soysoru Sathkara
 
 ---
 
