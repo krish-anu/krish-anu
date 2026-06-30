@@ -22,7 +22,7 @@ Building scalable web applications and turning data into meaningful insights.
 - 🏆 **G.C.E. A/L:** 3As — District Rank **12** · Island Rank **349**
 - 🌐 **Co-Lead — Public Relations** @ IEEE Computational Intelligence Society Student Chapter, University of Moratuwa
 - 💻 **Webmaster** @ IEEE ComSoc Student Branch (UoM) · **Web Development Team Member** @ IEEE CIS Sri Lanka Section
-- 💡 Passionate about **Full-Stack Development**, **Data Science**, **EDA**, and **Machine Learning**
+- 💡 Passionate about **Full-Stack Development**, **Data Science**, and **Machine Learning**
 - 🤝 Open to collaborations on full-stack, AI-powered, and data-driven projects
 
 ---
