@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm **Anusan Krishnathas**
 
-### 🚀 Full-Stack Developer · Data Science Enthusiast · CS Undergraduate
+### 🚀 Full-Stack Developer · Data Science Enthusiast · CSE Undergraduate
 
 Building scalable web applications and turning data into meaningful insights.
 
