@@ -123,24 +123,23 @@ Building scalable web applications and turning data into meaningful insights.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish-anu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=krish-anu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
+  alt="GitHub Stats"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish-anu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krish-anu&theme=tokyonight&hide_border=true&background=0d1117)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-anu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+  alt="Top Languages"
+/>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-**📫 Let's connect and build something amazing together!**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://anusan.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusan-krishnathas-413732288/)
-[![Email](https://img.shields.io/badge/krishnaanu200302@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnaanu200302@gmail.com)
-
-⭐️ From [krish-anu](https://github.com/krish-anu)
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=krish-anu&theme=tokyonight&hide_border=true&background=0d1117"
+  alt="GitHub Streak"
+/>
 
 </div>
