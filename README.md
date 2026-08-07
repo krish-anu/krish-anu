@@ -123,23 +123,10 @@ Building scalable web applications and turning data into meaningful insights.
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=krish-anu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
-  alt="GitHub Stats"
-/>
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=krish-anu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-<br/><br/>
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=krish-anu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-anu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
-  alt="Top Languages"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=krish-anu&theme=tokyonight&hide_border=true&background=0d1117"
-  alt="GitHub Streak"
-/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krish-anu&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
